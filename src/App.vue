@@ -33,4 +33,8 @@
 h4 {
   font-size: 20px;
 }
+
+a:visited {
+  color: #2c3e50;
+}
 </style>
